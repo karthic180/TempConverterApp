@@ -28,7 +28,7 @@ javac TempConverterApp.java
 After compiling, you can run the program using the `java` command.
 
 ```bash
-java TemperatureConverter
+java TempConverterApp
 ```
 
 ### 4. Output
@@ -41,7 +41,7 @@ The program will display the converted temperatures in the terminal. Here's an e
 
 ## Code Structure
 
-- **TemperatureConverter.java**: The main Java file that contains the temperature conversion logic.
+- **TempConverterApp.java**: The main Java file that contains the temperature conversion logic.
     - `convertCelsiusToFahrenheit(double celsius)`: Converts Celsius to Fahrenheit.
     - `convertFahrenheitToCelsius(double fahrenheit)`: Converts Fahrenheit to Celsius.
 
